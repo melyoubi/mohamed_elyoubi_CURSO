@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: red;
+    text-align: center;
+   
+  }
+  h2 {
+    color:grey;
+   
+    font-weight: bold;
+text-decoration: underline;
+}
+
+span {
+color: red;
+}
+p{
+ font-family:italic;
+}
+ol {
+    list-style-type: upper-roman;
+
+}
