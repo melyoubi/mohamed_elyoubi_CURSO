@@ -43,8 +43,8 @@ body {
   li a {
     display: block;
     color: rgb(0, 0, 0);
-    text-decoration-color:black
-    text-align: center;
+    text-decoration-color:black;
+    
     padding: 1px 1px;
     text-decoration: none;
   }
@@ -55,8 +55,8 @@ body {
   }
   .sidesection {
     width: 20%;
-    height: 100%;"
-    padding: 3% 10% ;
+    height: 100%;
+    
     right:10%;
     top:10px;
     text-align: center;
